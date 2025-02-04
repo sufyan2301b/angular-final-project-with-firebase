@@ -1,6 +1,7 @@
 export class environment
 {
   firebaseConfig = {
+    production: false,
     apiKey: "AIzaSyBdmeVl7iqZ4ODgAvRcPHjMZhdNMoLQhgc",
     authDomain: "angularfirstproject-f79b1.firebaseapp.com",
     projectId: "angularfirstproject-f79b1",
